@@ -3,6 +3,7 @@
 ## Objectives
 Learn to create tables, insert data, and use `JOIN`s to answer the questions.
 
+
 ## Create Tables
 In the `create.sql` file, model your tables. You should have a table for projects, users, and pledges.
 
@@ -12,7 +13,10 @@ In the `create.sql` file, model your tables. You should have a table for project
 - A pledge has an amount. It belongs to a user, and it also belongs to a project.
 
 ## Insert Records into Database
-Within the `insert.sql` file, insert 10 projects, 20 users, and 30 pledges into the database.
+Within the `insert.sql` file,
+-insert 10 projects,
+-20 users, and
+-30 pledges into the database.
 
 ## Queries
 Write the following queries in SQL. You'll use different kinds of SQL joins to arrive at the answers for most. Write your queries in the `lib/sql_queries` file like the example below:
